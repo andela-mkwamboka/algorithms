@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/andela-mkwamboka/sorting-algorithms.svg?branch=develop)](https://travis-ci.org/andela-mkwamboka/sorting-algorithms)
 
 # Sorting algorithms
