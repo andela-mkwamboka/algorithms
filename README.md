@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/andela-mkwamboka/sorting-algorithms.svg?branch=develop)](https://travis-ci.org/andela-mkwamboka/sorting-algorithms)
 
 # Sorting algorithms
@@ -39,4 +38,4 @@ For testing...
 $ npm test
 ```
 
-Learn more about these algorithms [here](https://medium.com/p/34f2e802fcf2/edit)
+Learn more about these algorithms [here](https://medium.com/@Nikah/algorithms-sorting-c270049fc19b)
