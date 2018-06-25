@@ -1,0 +1,27 @@
+{
+  "name": "sorting-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover _mocha spec && rm -rf coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-mkwamboka/sorting-algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-mkwamboka/sorting-algorithms/issues"
+  },
+  "homepage": "https://github.com/andela-mkwamboka/sorting-algorithms#readme",
+  "devDependencies": {
+    "coveralls": "^3.0.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  }
+}
